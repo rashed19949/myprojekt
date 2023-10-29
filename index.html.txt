@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Meine Java-Anwendung</title>
+</head>
+<body>
+    <h1>Willkommen zu meiner Java-Anwendung</h1>
+    <p>Hier ist der Inhalt meiner Anwendung.</p>
+</body>
+</html>
